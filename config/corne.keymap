@@ -65,7 +65,7 @@
             >;
         };
 
-        layer_7-mousedemo {
+        layer_3 {
             bindings = <
 &trans  &trans  &trans  &trans  &trans  &trans    &msc SCROLL_UP    &trans          &mmv MOVE_UP    &trans           &trans  &trans
 &trans  &trans  &trans  &trans  &trans  &trans    &msc SCROLL_DOWN  &mmv MOVE_LEFT  &mmv MOVE_DOWN  &mmv MOVE_RIGHT  &trans  &trans
